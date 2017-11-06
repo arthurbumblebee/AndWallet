@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AndWallet</string>
+    <string name="name_of_income_or_expense">Income / expense name</string>
+    <string name="amount">Amount</string>
+    <string name="income">INCOME</string>
+    <string name="expense">EXPENSE</string>
+    <string name="save">SAVE</string>
+    <string name="record_name">Record name</string>
+    <string name="row_amount">Amount</string>
+    <string name="record_icon">record icon</string>
+    <string name="delete_all">Delete All</string>
+    <string name="summary">Summary</string>
+    <string name="balance">Balance : %1$s</string>
+    <string name="andwallet">AndWallet</string>
+    <string name="this_view_shows_your_current_balance">This view shows your current balance:</string>
+    <string name="total_income">Income: $%1$s</string>
+    <string name="total_expenses">Expenses: $%1$s</string>
+    <string name="current_balance">Current Balance : $%1$s</string>
+</resources>
